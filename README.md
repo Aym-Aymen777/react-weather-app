@@ -66,5 +66,5 @@ npm run dev
 
 ## 🐟 License  
 
-💡 *Made with ❤️ by [Your Name](https://github.com/Aym-Aymen777/)*
+💡 *Made with ❤️ by [C.Aymen](https://github.com/Aym-Aymen777/)*
 
